@@ -5,7 +5,7 @@ https://ancorahealth-my.sharepoint.com/:v:/g/personal/krzysztofnowak_ancora_heal
 
 The video was recorded between Krzysztof Piotr Nowak (coach) and Stanisław Wasilewski (client) to imitate the conversation between coach and client.
 
-To use the file, download it from Teams and adjust the .mp4 file name.
+To use the file, download it from Teams and adjust the .mp4 file name to "Coach_Summaries_Test_Call".
 Then open Summaries.pl file and adjust the OpenAI API key in the code.
 
 Then, run the Summaries.pl python code to get the final summary. Be carefule, because you will have to install lot of libraries.
